@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pormangi.github.io/sitemap.html.gz
+Sitemap: https://pormangi.github.io/app/sitemap.html.gz
+Sitemap: https://pormangi.github.io/assets/sitemap.html.gz
+Sitemap: https://pormangi.github.io/css/sitemap.html.gz
+Sitemap: https://pormangi.github.io/includes/sitemap.html.gz
+Sitemap: https://pormangi.github.io/item/sitemap.html.gz
+Sitemap: https://pormangi.github.io/src/sitemap.html.gz
